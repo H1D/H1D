@@ -1,4 +1,4 @@
-# Hey, I'm Artem 👋
+# Hey, I'm Artem 
 
 Engineering software since the dial-up era. Led front-end for [Stepik](https://github.com/StepicOrg) since its founding. Led teams at [EPAM](https://github.com/epam) and [Yandex](https://github.com/yandex). Currently at [Reaktor](https://github.com/reaktor).
 
