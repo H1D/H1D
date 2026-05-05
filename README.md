@@ -6,14 +6,18 @@ Engineering software since the dial-up era. Led front-end for [Stepik](https://g
 
 ### 💰 Financial tools
 
-- [**easypdf-lite**](https://github.com/H1D/easypdf-lite) — Self-hostable invoice PDF generator. 10 MB Docker image, tiny runtime. [Live demo →](https://h1d.github.io/easypdf-lite/)
+- [**easypdf-lite**](https://github.com/H1D/easypdf-lite) — Self-hostable invoice PDF generator. 10 MB Docker image, tiny runtime. [easy-invoice.artems.net](https://easy-invoice.artems.net)
 - [**ics_lunchmoney_sync**](https://github.com/H1D/ics_lunchmoney_sync) — Syncs ICS Bank transactions to Lunch Money via Telegram bot + bookmarklet
 - [**lunch-money-kids-companion**](https://github.com/H1D/lunch-money-kids-companion) — PWA to help kids learn healthy financial habbits. React 19, offline-first, 7 languages. [Live app →](https://lunch-money-kids.netlify.app/)
 - [**ics-export-bookmarklet**](https://github.com/H1D/ics-export-bookmarklet) — Bookmarklet to export ICS Bank transactions to CSV
 
+### 🧑‍🧑‍🧒‍🧒 Parenting tools
+
+ - [**chore-craft**](https://github.com/H1D/chore-craft) quick chores checklist generator. [chorecraft.artems.net](https://chorecraft.artems.net/)
+
 ### 🖨️ 3D printing
 
-- [**calipr**](https://github.com/H1D/calipr) — Browser-based measurement tool using screen only. Credit-card calibration, SVG export. [Live app →](https://calipr.netlify.app/)
+- [**calipr**](https://github.com/H1D/calipr) — Browser-based measurement tool using screen only. Credit-card calibration, SVG export. [calipr.artems.net](https://calipr.netlify.app/)
 
 ### 🛠️ Developer tools
 
