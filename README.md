@@ -28,4 +28,5 @@ Engineering software since the dial-up era. Led front-end for [Stepik](https://g
 
 ### 🗣️ Language learning
 
+- [**woorden**](https://github.com/H1D/woorden) — Sort Dutch vocabulary by frequency into CEFR levels; shows de/het articles, offline-first PWA. [woorden.artems.net](https://woorden.artems.net)
 - [**anki-forvo-enrich**](https://github.com/H1D/anki-forvo-enrich) — Anki add-on to batch-enrich flashcards with Forvo pronunciation audio
