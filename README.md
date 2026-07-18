@@ -30,3 +30,4 @@ Engineering software since the dial-up era. Led front-end for [Stepik](https://g
 
 - [**woorden**](https://github.com/H1D/woorden) — Sort Dutch vocabulary by frequency into CEFR levels; shows de/het articles, offline-first PWA. [woorden.artems.net](https://woorden.artems.net)
 - [**anki-forvo-enrich**](https://github.com/H1D/anki-forvo-enrich) — Anki add-on to batch-enrich flashcards with Forvo pronunciation audio
+- [**sailing-vocab**](https://github.com/H1D/sailing-vocab) — British sailing English trainer for Russian speakers. Leitner flashcards, drills, and manoeuvre cheat sheets. Offline-first PWA. [sailing-anki.artems.net](https://sailing-anki.artems.net)
