@@ -15,6 +15,10 @@ Engineering software since the dial-up era. Led front-end for [Stepik](https://g
 
  - [**chore-craft**](https://github.com/H1D/chore-craft) quick chores checklist generator. [chorecraft.artems.net](https://chorecraft.artems.net/)
 
+### 🏷️ E-commerce
+
+- [**barcode-studio**](https://github.com/H1D/barcode-studio) — EAN-13 label-sheet generator. Print-calibrated A4 sheets, preset + custom label sizes, deterministic vector PDFs, 100% client-side. [labels.artems.net](https://labels.artems.net)
+
 ### 🖨️ 3D printing
 
 - [**calipr**](https://github.com/H1D/calipr) — Browser-based measurement tool using screen only. Credit-card calibration, SVG export. [calipr.artems.net](https://calipr.netlify.app/)
