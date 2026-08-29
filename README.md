@@ -6,6 +6,7 @@ Engineering software since the dial-up era. Led front-end for [Stepik](https://g
 
 ### 💰 Financial tools
 
+- [**dopo**](https://github.com/H1D/dopo) — Tinder for your Lunch Money transactions: swipe uncategorized ones into categories, AI-suggested (bring your own key). Zero backend — tokens never leave your browser. [dopo.artems.net](https://dopo.artems.net)
 - [**easypdf-lite**](https://github.com/H1D/easypdf-lite) — Self-hostable invoice PDF generator. 10 MB Docker image, tiny runtime. [easy-invoice.artems.net](https://easy-invoice.artems.net)
 - [**ics_lunchmoney_sync**](https://github.com/H1D/ics_lunchmoney_sync) — Syncs ICS Bank transactions to Lunch Money via Telegram bot + bookmarklet
 - [**lunch-money-kids-companion**](https://github.com/H1D/lunch-money-kids-companion) — PWA to help kids learn healthy financial habbits. React 19, offline-first, 7 languages. [Live app →](https://lunch-money-kids.netlify.app/)
