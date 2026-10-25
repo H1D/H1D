@@ -4,6 +4,10 @@ Engineering software since the dial-up era. Led front-end for [Stepik](https://g
 
 ## Recent projects
 
+### 🎥 Video
+
+- [**reshoot**](https://github.com/H1D/reshoot) — Re-shoot a video from the same spot. Lays a frame of the old video over your phone camera and hides the outlines you already match. Offline-first PWA. [reshoot.artems.net](https://reshoot.artems.net)
+
 ### 💰 Financial tools
 
 - [**dopo**](https://github.com/H1D/dopo) — Tinder for your Lunch Money transactions: swipe uncategorized ones into categories, AI-suggested (bring your own key). Zero backend — tokens never leave your browser. [dopo.artems.net](https://dopo.artems.net)
