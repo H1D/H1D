@@ -26,6 +26,7 @@ Engineering software since the dial-up era. Led front-end for [Stepik](https://g
 
 ### 🖨️ 3D printing
 
+- [**filament-booth**](https://github.com/H1D/filament-booth) — Product photos of 3D-printed parts in a browser tab. Slices the STL and path traces every bead with Blender's Cycles in WebAssembly. Has an MCP server, so a coding agent can take the photos. [booth.artems.net](https://booth.artems.net)
 - [**calipr**](https://github.com/H1D/calipr) — Browser-based measurement tool using screen only. Credit-card calibration, SVG export. [calipr.artems.net](https://calipr.netlify.app/)
 
 ### 🛠️ Developer tools
